@@ -1,9 +1,9 @@
 # Projeto-Heran-a----POO
 Projeto Planejador de Estudos
 
-• Nome: João Silva 
-o E-mail: joao.silva@gmail.com 
-o Atividades: Implementação das classes DisciplinaTeorica e Meta, elaboração dos testes de unidade. 
+• Nome: Ketlyn Barbosa de Lima
+o E-mail: kbl1@aluno.ifa.edu.br 
+o Atividades: Listagem de disciplinas , acompanhamento de progresso, estabelecimento de heranças entre os tipos de estudos, tentativa de fazer testes de unidade.
 
 
 • Nome: Maria Souza 
@@ -18,14 +18,13 @@ o Atividades: Implementação das classes DisciplinaTeorica e Meta, elaboração
 
 
 1. Tudo o que foi pedido foi realizado? O que faltou desenvolver? 
-o Sim, todas as funcionalidades foram implementadas. Faltou apenas a funcionalidade de revisão de progresso. 
+Não , faltaram os testes de unidade e a classe de notas. 
 
 2. Há algum problema/erro identificado no código ou execução? 
-o Não encontramos erros até o momento. O código está funcionando conforme esperado. 
+O Acompanhamento de progresso Global não está funcionando , sempre retorna 0% . O encapsulamento não está bom no código , a classe Nota não está presente no código e não foi possível implementar os testes.
 
 3. Descrição da experiência: 
-o O trabalho foi muito interessante. Conseguimos aplicar conceitos de POO e testar diferentes abordagens para resolver os 
-problemas propostos. 
+
 
 4. Dificuldades encontradas: 
 o A maior dificuldade foi entender como implementar a herança para que os diferentes tipos de estudo compartilhassem 
