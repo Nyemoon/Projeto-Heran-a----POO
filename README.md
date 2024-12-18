@@ -1,31 +1,35 @@
 # Projeto-Heran-a----POO
-Projeto Planejador de Estudos
+Integrantes
 
-• Nome: Ketlyn Barbosa de Lima
-o E-mail: kbl1@aluno.ifa.edu.br 
-o Atividades: Listagem de disciplinas , acompanhamento de progresso, estabelecimento de heranças entre os tipos de estudos, tentativa de fazer testes de unidade.
-
-
-• Nome: Maria Souza 
-E-mail: maria.souza@gmail.com 
-• Atividades: Criação da interface de linha de comando e testes de funcionalidade. 
+Nome: Ketlyn Barbosa de Lima
+Email: kbl1@aluno.ifal.edu.br
+Atividades: Listagem de disciplinas , acompanhamento de progresso, tentativa de fazer testes de unidade.
 
 
-• Nome: João Silva 
-o E-mail: joao.silva@gmail.com 
-o Atividades: Implementação das classes DisciplinaTeorica e Meta, elaboração dos testes de unidade. 
+Nome: Damarys Vitória Ribeiro da Silva Firmino
+Email: dvrsf1@aluno.ifal.edu.br
+Atividades: Cadastro das disciplinas, metas, criação das classes e heranças.
 
 
+Perguntas
 
 1. Tudo o que foi pedido foi realizado? O que faltou desenvolver? 
-Não , faltaram os testes de unidade e a classe de notas. 
+Não. Faltou a implementação da classe Nota, alguns testes e ser um pouco melhor na funcionalidade.
 
 2. Há algum problema/erro identificado no código ou execução? 
-O Acompanhamento de progresso Global não está funcionando , sempre retorna 0% . O encapsulamento não está bom no código , a classe Nota não está presente no código e não foi possível implementar os testes.
+O Acompanhamento de progresso Global não está funcionando , sempre retorna 0% . O encapsulamento não está muito bom , a classe Nota não está presente no código e não foi possível implementar os testes.
 
 3. Descrição da experiência: 
-
+O projeto foi de grande aprendizado, praticamos o que nós já estudamos, como também revimos assuntos necessários para desenvolver o projeto (alguns do ano passado).
 
 4. Dificuldades encontradas: 
-o A maior dificuldade foi entender como implementar a herança para que os diferentes tipos de estudo compartilhassem 
-comportamentos comuns sem duplicação de código. 
+Compreender o que estava sendo pedido do projeto. Algumas exigências estavam vagas, então tivemos problemas na compreensão do que era para ser desenvolvido. Mas, conseguimos fazer o possível para o melhor do projeto.
+
+
+Referências
+
+Heranças: https://www.facom.ufu.br/~flavio/poo/files/2004-01/POO-JAVA%20HERANCA.pdf
+Console em formato de tabelas:  Console.table() - APIs da Web | MDN
+Uso Includes : String.prototype.includes() - JavaScript | MDN
+Verfificação de Array : Array.isArray() - JavaScript | MDN
+
