@@ -29,7 +29,8 @@ Compreender o que estava sendo pedido do projeto. Algumas exigências estavam va
 Referências
 
 Heranças: https://www.facom.ufu.br/~flavio/poo/files/2004-01/POO-JAVA%20HERANCA.pdf
-Console em formato de tabelas:  Console.table() - APIs da Web | MDN
-Uso Includes : String.prototype.includes() - JavaScript | MDN
-Verfificação de Array : Array.isArray() - JavaScript | MDN
+Console em formato de tabelas:
+https://developer.mozilla.org/pt-BR/docs/Web/API/console/table_static
+Uso Includes : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/includes
+Verfificação de Array : https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
 
